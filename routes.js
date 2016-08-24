@@ -1,0 +1,20 @@
+var routes = {
+    index:['header','main','footer'],
+    header:{
+      el:$('#header'),
+      url:'init/header.html'
+    },
+    main:{
+      el:$('#main'),
+      url:'init/main.html'
+    },
+    footer:{
+      el:$('#footer'),
+      url:'init/footer.html'
+    },
+    detail:['header','detailMain','footer'],
+    detailMain:{
+      el:$('#main'),
+      url:'detail/detail.html'
+    }
+}
