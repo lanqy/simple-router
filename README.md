@@ -1,3 +1,3 @@
-# simple-router
-a simple router with hash and jquery
+# single-page-jquery
+Single page with hash and jquery
  
